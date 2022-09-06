@@ -15,7 +15,7 @@ namespace Recursion
             Console.WriteLine(Sum(numbers, index));
             // second task
             //long number = long.Parse(Console.ReadLine());
-            //ConsoleWriteLine(Factorielnumber());
+            //ConsoleWriteLine(Factoriel(number));
         }
 
         private static int Sum(int[] numbers, int index)
